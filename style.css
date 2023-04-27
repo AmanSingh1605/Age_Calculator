@@ -147,7 +147,7 @@ button:active{
 
 }
 
-@media  screen and (min-width:400px) {
+@media  screen and (min-width:500px) {
   .container{
     width:60%;
     max-width:max-content;
